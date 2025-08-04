@@ -1,0 +1,9 @@
+-- DANH SÁCH WHITELIST --
+-- Dùng UserId hoặc GroupId --
+
+-- UserIds (ID người dùng Roblox):
+
+
+-- Nhóm (GroupId - cần bắt đầu bằng "Group:")
+Group:1234567
+Group:7654321
